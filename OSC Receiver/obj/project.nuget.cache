@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "KULf4d5SQAUlZmvjhOhZ9TiD/vIXV07Aa0Rl0sIepeByyoE2eJGY7gqxi6SuoCpdJdSg6JQVGtl3M08G9SfPmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fabio Work\\Documents\\QSC\\Q-Sys Designer\\Plugins\\RCF\\Tester Tool OSC\\OSC Receiver\\OSC Receiver\\OSC Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabio Work\\.nuget\\packages\\rug.osc\\1.2.5\\rug.osc.1.2.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Rug.Osc 1.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Rug.Osc",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

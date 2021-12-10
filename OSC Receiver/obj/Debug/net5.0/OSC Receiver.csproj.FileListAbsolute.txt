@@ -1,0 +1,18 @@
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\OSC Receiver.exe
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\OSC Receiver.deps.json
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\OSC Receiver.runtimeconfig.json
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\OSC Receiver.runtimeconfig.dev.json
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\OSC Receiver.dll
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\ref\OSC Receiver.dll
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\OSC Receiver.pdb
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\bin\Debug\net5.0\Rug.Osc.dll
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.csproj.AssemblyReference.cache
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.AssemblyInfoInputs.cache
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.AssemblyInfo.cs
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.dll
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\ref\OSC Receiver.dll
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.pdb
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.genruntimeconfig.cache
+C:\Users\Fabio Work\Documents\QSC\Q-Sys Designer\Plugins\RCF\Tester Tool OSC\OSC Receiver\OSC Receiver\obj\Debug\net5.0\OSC Receiver.csproj.CopyComplete
